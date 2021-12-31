@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ShadowClassLibrary.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30b008fa3d73c0ff2dc1223a16616116ab8ab85a33cf80fcf3cf7492429ca0bf</Value>
+    </Setting>
+    <Setting Name="aeCipher" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HWZ0duYYgg7rgpHTsjuVEaNpthRyAOH1DI5t6VSrdfI=</Value>
+    </Setting>
+    <Setting Name="proxCipher" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YbsuMbVrGhK9jo5ppogHAaOg0ntorP0V1jNYxPccOfk=</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
